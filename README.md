@@ -33,16 +33,13 @@ The goal is to analyze agricultural performance and identify significant trends 
    - Trends in crop production
    - Regional disparities in agriculture
    - Seasonal patterns influencing output
+   - R Square: 95%
 
 ## Requirements
 To run the notebook, install the dependencies:
 
-```bash
-pip install -r requirements.txt
-```
-
 Typical libraries include:
-- Python 3.9+
+- Python 3.10
 - pandas
 - numpy
 - matplotlib
@@ -55,8 +52,7 @@ Typical libraries include:
    git clone <repo_url>
    cd <repo_name>
    ```
-2. Install dependencies with `pip install -r requirements.txt`.
-3. Open and run the notebook:
+2. Open and run the notebook:
    ```bash
    jupyter notebook india-agriculture.ipynb
    ```
